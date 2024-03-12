@@ -1,2 +1,2 @@
-# OlaMundo
- Primeiro projeto com versionamento
+# Olá, Mundo!
+ Primeiro projeto com versionamento, com git e github.
